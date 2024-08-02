@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.search{
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.search:focus{
+    outline: none;
+
+}
+.searchBtn{
+    padding: 4px !important;
+    border-radius: 10px;
+    
+}
+.searchBtn:focus{
+    outline: none;
+}
